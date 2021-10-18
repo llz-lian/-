@@ -1,0 +1,6 @@
+﻿  Gentic.cpp
+C:\Users\ia194\Desktop\codes\演化计算\演化计算\Gentic.cpp(7,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ia194\Desktop\codes\演化计算\演化计算\Gentic.cpp(10,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ia194\Desktop\codes\演化计算\演化计算\Gentic.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ia194\Desktop\codes\演化计算\演化计算\Gentic.cpp(95,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  演化计算.vcxproj -> C:\Users\ia194\Desktop\codes\演化计算\Debug\演化计算.exe
